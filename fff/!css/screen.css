@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'YikesFont';
+	src: url(../!resources/yikes!_gg_.tff);
+}
+h1 {
+	color: #00ff00;
+	font-family: 'YikesFont';
+}
